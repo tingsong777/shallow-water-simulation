@@ -1,0 +1,18 @@
+# MATLAB autosave / backup / data
+*.asv
+*.mat
+*.mlx
+*.slxc
+*.mex*
+
+# 大型結果檔、圖片、報告（可依需要開放）
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.rar
+
+# 系統垃圾
+.DS_Store
+Thumbs.db
